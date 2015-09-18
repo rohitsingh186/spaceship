@@ -1,6 +1,6 @@
 # spaceship
 Spaceship is an arcade game in which player gets to fire missile to destroy debris and explore outer space.
-Direct link: `http://www.codeskulptor.org/#user40_vgDyu0AtjJEeATA.py`
+Direct link: `http://www.codeskulptor.org/#user40_WETU1klYwtzMAKm.py`
 
 *** Internet is required to run this code properly, to load images.
 
